@@ -71,7 +71,7 @@ const CONFIG = {
     {
       lieuTitre: "Réception",
       lieuNom: "Dream Espace",
-      lieuAdresse: "Cocody, Abidjan, Côte d'Ivoire",
+      lieuAdresse: "Dream Espace Cocody, Abidjan, Côte d'Ivoire",
       lieuUrl: "Dream+Espace",
       lieuItineraire: "Dream+Espace",
       btnText: "Dream Espace",
