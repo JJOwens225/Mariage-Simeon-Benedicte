@@ -30,7 +30,7 @@ const CONFIG = {
     "assets/img/img2.jpeg",
     "assets/img/img4.jpeg",
   ],
-  photoAccueil: "assets/img/img4.jpeg",
+  photoAccueil: "/assets/img/img4.jpeg",
   programmeTitre: "Le programme",
   programme: [
     {
