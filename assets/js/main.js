@@ -26,11 +26,11 @@ const CONFIG = {
   ],
   galerieTitre: "Nos moments",
   galerie: [
-    "/assets/img/img1.jpeg",
-    "/assets/img/img2.jpeg",
-    "/assets/img/img4.jpeg",
+    "assets/img/img1.jpeg",
+    "assets/img/img2.jpeg",
+    "assets/img/img4.jpeg",
   ],
-  photoAccueil: "/assets/img/img4.jpeg",
+  photoAccueil: "assets/img/img4.jpeg",
   programmeTitre: "Le programme",
   programme: [
     {
